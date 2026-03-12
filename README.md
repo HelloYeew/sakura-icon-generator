@@ -24,4 +24,4 @@ This extension is part of the Sakura Framework, see [the main repository](https:
 
 This project is licensed under the MIT license. Please see [the license file](LICENSE) for more information. tl;dr you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.
 
-Material Symbols are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Material Symbols are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
